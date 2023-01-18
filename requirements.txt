@@ -1,0 +1,10 @@
+pip install Flask
+pip install boto3
+pip install requests
+pip install regex
+pip install flask_cors
+pip install numpy
+pip3 install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+[ For python 3.7 ; no_cuda; you can use this site to select the torch version according to our python-version and cuda environment if you have : https://pytorch.org/ ]
+
+pip install transformers==2.1.1
