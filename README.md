@@ -3,7 +3,7 @@
 ## Instructions to set up the Bert Chatbot English Demo on Local system
 
 1. Clone the repository in your system.
-2. Download the model file from https://drive.google.com/file/d/13N8xZbM5C9VBg1sAxOdskqiha0aSwYdX/view?usp=sharing and unzip it in root directory.
+2. Download the model file from https://drive.google.com/file/d/1_zGNR61uII2KZC411l74oNZnSGYg7cHu/view?usp=sharing and unzip it in root directory.
 3. Install and create a virtual environment by the following step. You'll need <b>python <= 3.7</b> to set it up.
 ```shell
 sudo apt install virtualenv
